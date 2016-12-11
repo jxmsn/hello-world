@@ -1,3 +1,7 @@
 one:git push origin master
 first: branch test
+<<<<<<< HEAD
 second: merge branch to master
+=======
+second: merte branch too
+>>>>>>> dev
