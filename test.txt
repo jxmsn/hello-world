@@ -1,10 +1,8 @@
 one:git push origin master
 first: branch test
-<<<<<<< HEAD
 second: merge branch to master
-=======
 second: merte branch too
->>>>>>> dev
 second:branch feature1
 	create a new branch is quich and simple
 three:test master and feature1 Error
+three:test branch and master diff question
